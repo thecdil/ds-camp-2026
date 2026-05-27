@@ -127,6 +127,8 @@ Add new data and explore:
     - [psychiana_cbdemo_csv.csv]({{ '/objects/psychiana_cbdemo_csv.csv' | relative_url }})
     - [sbw.csv]({{ '/objects/sbw.csv' | relative_url }})
     - [postcards.csv]({{ '/objects/postcards.csv' | relative_url }})
+    - [flora.csv](https://github.com/uidaholib/base-digital-collections-template/raw/refs/heads/flora/_data/flora.csv)
+    - [cities.csv](https://github.com/uidaholib/base-digital-collections-template/raw/refs/heads/cities/_data/cities.csv)
 - Add file to repository "_data"
 - Edit "_config.yml"
     - metadata
